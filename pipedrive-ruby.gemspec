@@ -77,7 +77,6 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<json>, [">= 1.7.7"])
       s.add_runtime_dependency(%q<multi_xml>, [">= 0.5.2"])
       s.add_runtime_dependency(%q<webmock>, [">= 0"])
-      s.add_runtime_dependency(%q<coveralls>, [">= 0"])
       s.add_development_dependency(%q<shoulda>, [">= 0"])
       s.add_development_dependency(%q<rdoc>, ["~> 3.12"])
       s.add_development_dependency(%q<bundler>, [">= 1.0.0"])
@@ -88,7 +87,6 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<json>, [">= 1.7.7"])
       s.add_dependency(%q<multi_xml>, [">= 0.5.2"])
       s.add_dependency(%q<webmock>, [">= 0"])
-      s.add_dependency(%q<coveralls>, [">= 0"])
       s.add_dependency(%q<shoulda>, [">= 0"])
       s.add_dependency(%q<rdoc>, ["~> 3.12"])
       s.add_dependency(%q<bundler>, [">= 1.0.0"])
@@ -100,7 +98,6 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<json>, [">= 1.7.7"])
     s.add_dependency(%q<multi_xml>, [">= 0.5.2"])
     s.add_dependency(%q<webmock>, [">= 0"])
-    s.add_dependency(%q<coveralls>, [">= 0"])
     s.add_dependency(%q<shoulda>, [">= 0"])
     s.add_dependency(%q<rdoc>, ["~> 3.12"])
     s.add_dependency(%q<bundler>, [">= 1.0.0"])
@@ -108,4 +105,3 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<simplecov>, [">= 0"])
   end
 end
-

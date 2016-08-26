@@ -2,7 +2,7 @@
 
 [![Code Climate](https://codeclimate.com/github/thiesen/pipedrive-ruby.png)](https://codeclimate.com/github/thiesen/pipedrive-ruby)
 [![Build Status](https://travis-ci.org/thiesen/pipedrive-ruby.svg)](https://travis-ci.org/thiesen/pipedrive-ruby)
-[[![Coverage Status](https://coveralls.io/repos/thiesen/pipedrive-ruby/badge.svg?branch=master&service=github)](https://coveralls.io/github/thiesen/pipedrive-ruby?branch=master)
+
 ## Installation
 
     gem install pipedrive-ruby
